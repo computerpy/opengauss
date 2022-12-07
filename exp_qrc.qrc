@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>back.png</file>
+    <file>close.png</file>
+    <file>foward.png</file>
+    <file>ic_back.jpg</file>
+    <file>ic_home.png</file>
+    <file>minus.png</file>
+    <file>OIP-C (15).jpg</file>
+    <file>OIP-C (16).jpg</file>
+    <file>people.jpg</file>
+    <file>refresh.png</file>
+    <file>star.ico</file>
+    <file>xindian.jpeg</file>
+  </qresource>
+</RCC>
